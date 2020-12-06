@@ -1,0 +1,7 @@
+123456789012,Baker Street,Marylebone,Marylebone,102546,London,UK
+123412341234,Krishna Gali,Bangla,Jorhat,214562,Assam,India
+987698769876,Paltan Bazar,Near Guwahati Station,Guwahati,785203,Assam,India
+132198769869,Yashwant Nagar,Ambad Road,Jalna,431203,Maharashtra,India
+456378541245,Paltan Bazar,Near Guwahati Station,Guwahati,785203,Assam,India
+456512327898,GB Road,Chawradi Bazar,Delhi,120256,New Delhi,India
+452312567889,Pitliya Mansion,Jain Area,Chittorgarh,255145,Rajasthan,India

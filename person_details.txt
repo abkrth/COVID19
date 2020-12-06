@@ -1,0 +1,7 @@
+Rohit Goyal,123456789012,21,2020-05-15,Goa,Assam
+Ayushman Mathur,123412341234,20,2020-08-10,Bihar,Silchar
+Akangsha Goswami,987698769876,56,2020-06-28,Guwahati,Silchar
+Samiksha Kulkarni,132198769869,68,2020-08-25,Bangladesh,Silchar
+Abhishek Kumar Thakur,456378541245,45,2020-09-21,Kolkata,Bangladesh
+Apil Thapa,456512327898,32,2020-11-12,Uttar Pradesh,Silchar
+Abhinav Pitliya,452312567889,82,2020-12-01,Rajasthan,Silchar

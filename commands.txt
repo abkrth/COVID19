@@ -1,0 +1,28 @@
+create table personal_details (
+P_id int primary key not null auto_increment,
+Name varchar(255),
+Aadhar_no varchar(12),
+Age int,
+Arrival_date date,
+Discharge_date date,
+Coming_from varchar(255),
+Going_to varchar(255));
+
+create table address (
+P_id int references personal_details(P_id) on delete cascade,
+street_name varchar(50),
+area varchar(50),
+City varchar(50),
+Pincode int,
+State varchar(50),
+Country varchar(50));
+
+create table contact_details (
+P_id int references personal_details(P_id) on delete cascade,
+Phone varchar(15));
+
+create table hostel_details (
+P_id int references personal_details(P_id) on delete cascade,
+Hostel_no int,
+Floor_no int,
+Room_no int);
